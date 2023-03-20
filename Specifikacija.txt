@@ -1,0 +1,58 @@
+- Specifikacija Digitalni grafikon
+
+- .NET API as backend
+	- CSR - Agents - Log in/out system - Authentification
+		- Disponent - pravo modificiranja grafikon
+		- Operativac - pravo pregledavanja 
+			+ pravo podnošenja promjena naloga (ova funkcionalnost može biti naknadno dodana)
+		- Admin - sva prava
+	
+	- Vozila
+		- kompanije - ime - adresa/grad/poštanski broj - oib
+			- ukupan broj kilometara
+			- ukupan broj naloga
+			- prosječan broj kilometara
+		- vrste vozila
+			- V - Van
+			- M - Minibus
+			- B - Bus
+		- broj sjedala
+		- lista vozača
+			- ime - prezime - broj mobitela - bilješke/komentar
+		- vozila u najmu
+			
+	- Nalozi
+		- dolazni - plavi
+		- odlazni - crveni
+		- other info...
+		- Dodavanja naloga
+			- Ručno dodavanje naloga
+			- Importanje naloga direktno kroz Csv file
+				- Izračunavanje kilometara i potrebnog vremena za obaviti transfer - Google Maps
+		- Updateanje naloga
+			- Moguće mijenjanje svih informacija vezane za nalog i dok on sam traje
+		- Brisanje naloga - Status -> Inactive
+		
+	- Correspondence
+		- Kreiranje .pdf formata naloga
+		- Pripremanje naloga za slanje kompanijama
+		- Slanje mailova svim odabranim vozilima
+	
+	- Postavke
+		- Dodavanje novih korisnika - Admin only
+		- Mijenjanje dizajna (boja aplikacije)
+		- Mijenjanje osobnih podataka
+	
+- React as fontend
+	- Prozori
+		- Log in
+		- Glavni prozor (timeline + nalozi + vozači)
+			- Drag n' drop timeline
+			- Tablice sa vozilima i nalozima
+			- Odabir datuma
+		- Glavni prozor za mobilne uređaje (operativci)
+		- Kompanija/vozila
+		- Nalozi
+			- Pregled preko Google mapsa lokacije početne i krajnje
+		
+		
