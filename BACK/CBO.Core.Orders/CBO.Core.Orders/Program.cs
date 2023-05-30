@@ -152,7 +152,7 @@ try
             options.SwaggerDoc("v1",
                 new OpenApiInfo
                 {
-                    Title = "emovis RITBA Account Management API",
+                    Title = "kompas Orders Management API",
                     Version = "v1"
                 }
             );
