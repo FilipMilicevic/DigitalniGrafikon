@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1JA36w9oMTBuu3m8xJ8xgQnhgl2cfek8FqUKrGfMVkc=",
+  "Source": "CBO.DigitalChart.API",
+  "BasePath": "_content/CBO.DigitalChart.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

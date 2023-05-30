@@ -43,7 +43,7 @@
 		- Mijenjanje dizajna (boja aplikacije)
 		- Mijenjanje osobnih podataka
 	
-- React as fontend
+- React as frontend
 	- Prozori
 		- Log in
 		- Glavni prozor (timeline + nalozi + vozači)
