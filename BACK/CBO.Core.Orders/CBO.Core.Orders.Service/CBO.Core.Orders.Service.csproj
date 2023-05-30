@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Serilog" Version="2.12.0" />
+    <PackageReference Include="System.Reflection" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\CBO.Common.API\CBO.Common.API\CBO.Common.API.csproj" />
+    <ProjectReference Include="..\..\CBO.Common.API\CBO.Common\CBO.Common.csproj" />
+    <ProjectReference Include="..\CBO.Core.Orders.DataAccess.Csc\CBO.Core.Orders.DataAccess.Csc.csproj" />
+    <ProjectReference Include="..\CBO.Core.Orders.DataAccess\CBO.Core.Orders.DataAccess.csproj" />
+    <ProjectReference Include="..\CBO.Core.Orders.Models\CBO.Core.Orders.Models.csproj" />
+  </ItemGroup>
+
+</Project>

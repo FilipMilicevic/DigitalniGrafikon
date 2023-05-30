@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BgOemGxVQxUjpxT697+TxhT6wd/R2gT9feSe2ifnNUU=",
+  "Source": "CBO.Core.Orders.API",
+  "BasePath": "_content/CBO.Core.Orders.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CBO.Core.Orders.API\\wwwroot",
+      "Source": "CBO.Core.Orders.API",
+      "ContentRoot": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders\\wwwroot\\",
+      "BasePath": "_content/CBO.Core.Orders.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

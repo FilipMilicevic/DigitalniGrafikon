@@ -24,6 +24,7 @@ CREATE TABLE [Agent](
 	[DomainName] varchar(10),
 	[AgentName] varchar(50),
 	[AgentSurname] varchar(50),
+	[AgentSecret] varchar(50),
 	[AgentTypeId] int,
 	[Created] [datetime] NULL,
 	[CreatedBy] [varchar](50) NULL,

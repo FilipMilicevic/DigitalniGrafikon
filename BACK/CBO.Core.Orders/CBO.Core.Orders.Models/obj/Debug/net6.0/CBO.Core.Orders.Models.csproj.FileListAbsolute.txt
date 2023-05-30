@@ -1,0 +1,12 @@
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\bin\Debug\net6.0\CBO.Core.Orders.Models.deps.json
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\bin\Debug\net6.0\CBO.Core.Orders.Models.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\bin\Debug\net6.0\CBO.Core.Orders.Models.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.csproj.AssemblyReference.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.AssemblyInfoInputs.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.AssemblyInfo.cs
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.csproj.CoreCompileInputs.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\refint\CBO.Core.Orders.Models.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\CBO.Core.Orders.Models.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.Models\obj\Debug\net6.0\ref\CBO.Core.Orders.Models.dll

@@ -1,0 +1,73 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "GVDBContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "CBO.Core.Orders.DataAccess.Csc",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Agent]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[AgentType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Company]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Driver]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DrivingOrder]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DrivingOrderType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Partner]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Vehicle]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[VehicleClass]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "FilipPC\\SQLEXPRESS.GVDB",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": true,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": true,
+   "UseSpatial": false,
+   "UseT4": false
+}

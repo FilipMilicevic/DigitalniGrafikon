@@ -1,0 +1,17 @@
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.deps.json
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.DataAccess.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.Models.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.DataAccess.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\bin\Debug\net6.0\CBO.Core.Orders.Models.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.csproj.AssemblyReference.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.AssemblyInfoInputs.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.AssemblyInfo.cs
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.csproj.CoreCompileInputs.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.csproj.CopyComplete
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\refint\CBO.Core.Orders.DataAccess.Csc.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\CBO.Core.Orders.DataAccess.Csc.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Core.Orders\CBO.Core.Orders.DataAccess.Csc\obj\Debug\net6.0\ref\CBO.Core.Orders.DataAccess.Csc.dll

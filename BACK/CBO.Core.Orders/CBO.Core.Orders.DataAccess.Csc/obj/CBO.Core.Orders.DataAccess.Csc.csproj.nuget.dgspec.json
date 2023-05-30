@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess.Csc\\CBO.Core.Orders.DataAccess.Csc.csproj": {}
+  },
+  "projects": {
+    "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess.Csc\\CBO.Core.Orders.DataAccess.Csc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess.Csc\\CBO.Core.Orders.DataAccess.Csc.csproj",
+        "projectName": "CBO.Core.Orders.DataAccess.Csc",
+        "projectPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess.Csc\\CBO.Core.Orders.DataAccess.Csc.csproj",
+        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess.Csc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess\\CBO.Core.Orders.DataAccess.csproj": {
+                "projectPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess\\CBO.Core.Orders.DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess\\CBO.Core.Orders.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess\\CBO.Core.Orders.DataAccess.csproj",
+        "projectName": "CBO.Core.Orders.DataAccess",
+        "projectPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess\\CBO.Core.Orders.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.Models\\CBO.Core.Orders.Models.csproj": {
+                "projectPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.Models\\CBO.Core.Orders.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.Models\\CBO.Core.Orders.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.Models\\CBO.Core.Orders.Models.csproj",
+        "projectName": "CBO.Core.Orders.Models",
+        "projectPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.Models\\CBO.Core.Orders.Models.csproj",
+        "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+        "outputPath": "C:\\Source\\GitHub\\DigitalniGrafikon\\BACK\\CBO.Core.Orders\\CBO.Core.Orders.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

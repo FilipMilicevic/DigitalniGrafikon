@@ -1,0 +1,15 @@
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\bin\Debug\net6.0\CBO.Common.API.deps.json
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\bin\Debug\net6.0\CBO.Common.API.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\bin\Debug\net6.0\CBO.Common.API.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\bin\Debug\net6.0\CBO.Common.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\bin\Debug\net6.0\CBO.Common.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.csproj.AssemblyReference.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.AssemblyInfoInputs.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.AssemblyInfo.cs
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.csproj.CoreCompileInputs.cache
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.csproj.CopyComplete
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\refint\CBO.Common.API.dll
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\CBO.Common.API.pdb
+C:\Source\GitHub\DigitalniGrafikon\BACK\CBO.Common.API\CBO.Common.API\obj\Debug\net6.0\ref\CBO.Common.API.dll

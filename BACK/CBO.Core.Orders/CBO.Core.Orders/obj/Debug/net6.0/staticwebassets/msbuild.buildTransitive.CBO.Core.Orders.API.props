@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CBO.Core.Orders.API.props" />
+</Project>
