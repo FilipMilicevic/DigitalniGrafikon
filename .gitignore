@@ -209,7 +209,6 @@ UpgradeLog*.htm
 *.mdf
 *.ldf
 *.jfm
-*.dbmdl
 
 # Business Intelligence projects
 *.rdl.data
@@ -248,3 +247,10 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/BACK/CBO.Core.Orders/.vs/CBO.Core.Orders/FileContentIndex/3532de2f-9598-46c2-852c-a8c2eedc4874.vsidx
+/BACK/CBO.Core.Orders/.vs/CBO.Core.Orders/v17/.suo
+/BACK/CBO.Core.Orders/CBO.Core.Orders/Controllers/OrdersController.cs
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Core.Orders.API.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Core.Orders.API.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders/obj/Debug/net6.0/CBO.Core.Orders.API.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders/obj/Debug/net6.0/CBO.Core.Orders.API.pdb
