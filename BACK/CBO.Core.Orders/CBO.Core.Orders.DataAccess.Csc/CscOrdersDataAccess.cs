@@ -34,5 +34,24 @@ namespace CBO.Core.Orders.DataAccess.Csc
 
             return login?.AgentName!;
         }
+
+        public async Task<List<string>> GetMatchingRoles(string featureCode, string clientId)
+        {
+
+            var roles = _cscDb.Agents
+                .Where
+                (
+                    g =>
+                        g.AgentName == clientId
+                        &&
+                        g.AgentSecret == featureCode
+                )
+                .Select
+                (
+                    g => g.AgentCode
+                );
+
+            return await roles.ToListAsync();
+        }
     }
 }

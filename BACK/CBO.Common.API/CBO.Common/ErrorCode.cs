@@ -2,6 +2,7 @@
 {
     public enum ErrorCode
     {
-        FirstError = 0
+        FirstError = 0,
+        NotAuthorizedToUseFeature
     }
 }
