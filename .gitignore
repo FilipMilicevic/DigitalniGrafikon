@@ -209,7 +209,6 @@ UpgradeLog*.htm
 *.mdf
 *.ldf
 *.jfm
-*.dbmdl
 
 # Business Intelligence projects
 *.rdl.data
@@ -248,3 +247,36 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/BACK/CBO.Common.API/CBO.Common/bin/Debug/net6.0/CBO.Common.dll
+/BACK/CBO.Common.API/CBO.Common/bin/Debug/net6.0/CBO.Common.pdb
+/BACK/CBO.Common.API/CBO.Common/obj/Debug/net6.0/CBO.Common.csproj.CoreCompileInputs.cache
+/BACK/CBO.Common.API/CBO.Common/obj/Debug/net6.0/CBO.Common.dll
+/BACK/CBO.Common.API/CBO.Common/obj/Debug/net6.0/CBO.Common.pdb
+/BACK/CBO.Common.API/CBO.Common/obj/Debug/net6.0/ref/CBO.Common.dll
+/BACK/CBO.Common.API/CBO.Common/obj/Debug/net6.0/refint/CBO.Common.dll
+/BACK/CBO.Common.API/CBO.Common.API/bin/Debug/net6.0/CBO.Common.API.dll
+/BACK/CBO.Common.API/CBO.Common.API/bin/Debug/net6.0/CBO.Common.API.pdb
+/BACK/CBO.Common.API/CBO.Common.API/bin/Debug/net6.0/CBO.Common.dll
+/BACK/CBO.Common.API/CBO.Common.API/bin/Debug/net6.0/CBO.Common.pdb
+/BACK/CBO.Common.API/CBO.Common.API/obj/Debug/net6.0/CBO.Common.API.csproj.AssemblyReference.cache
+/BACK/CBO.Common.API/CBO.Common.API/obj/Debug/net6.0/CBO.Common.API.csproj.CoreCompileInputs.cache
+/BACK/CBO.Common.API/CBO.Common.API/obj/Debug/net6.0/CBO.Common.API.dll
+/BACK/CBO.Common.API/CBO.Common.API/obj/Debug/net6.0/CBO.Common.API.pdb
+/BACK/CBO.Common.API/CBO.Common.API/obj/Debug/net6.0/ref/CBO.Common.API.dll
+/BACK/CBO.Common.API/CBO.Common.API/obj/Debug/net6.0/refint/CBO.Common.API.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Common.API.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Common.API.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Common.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Common.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Core.Orders.Service.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders/bin/Debug/net6.0/CBO.Core.Orders.Service.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders/obj/Debug/net6.0/CBO.Core.Orders.API.csproj.AssemblyReference.cache
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/bin/Debug/net6.0/CBO.Common.API.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/bin/Debug/net6.0/CBO.Common.API.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/bin/Debug/net6.0/CBO.Common.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/bin/Debug/net6.0/CBO.Common.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/bin/Debug/net6.0/CBO.Core.Orders.Service.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/bin/Debug/net6.0/CBO.Core.Orders.Service.pdb
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/obj/Debug/net6.0/CBO.Core.Orders.Service.csproj.AssemblyReference.cache
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/obj/Debug/net6.0/CBO.Core.Orders.Service.dll
+/BACK/CBO.Core.Orders/CBO.Core.Orders.Service/obj/Debug/net6.0/CBO.Core.Orders.Service.pdb
